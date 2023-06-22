@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "chain-react-expo-router-demo",
+    "slug": "chain-react-expo-router-demo"
+  }
+}
