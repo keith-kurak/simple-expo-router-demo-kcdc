@@ -22,7 +22,7 @@ export default function Page() {
         <TouchableOpacity
           onPress={() =>
             Linking.openURL(
-              "https://github.com/expo/simple-expo-router-demo-kcdc"
+              "https://github.com/keith-kurak/simple-expo-router-demo-kcdc"
             )
           }
         >
