@@ -5,7 +5,7 @@ Use [`expo-router`](https://expo.github.io/router) to build native navigation us
 ## Links
 - [Presentation slides](https://docs.google.com/presentation/d/16xTkA1DNdllXTpmDXVci5Xg8eL5SiNZuAtCgmY2g3h4/edit?usp=sharing)
 - ["Add Some Expo" PR Examples](https://github.com/keith-kurak/AddSomeExpo2023)
-- Just Some Kana ([iOS](https://apps.apple.com/us/app/just-some-kana/id1671606312) | [Android](https://play.google.com/store/apps/details?id=com.keithkurak.justkana))
+- Just Some Kana (app we live-updated during the presentation) ([iOS](https://apps.apple.com/us/app/just-some-kana/id1671606312) | [Android](https://play.google.com/store/apps/details?id=com.keithkurak.justkana) | [source code](https://github.com/keith-kurak/just-kana)) 
 
 ## 🚀 How to start a project with Expo Router
 
