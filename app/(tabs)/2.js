@@ -7,7 +7,7 @@ import {
   Platform,
 } from "react-native";
 import { Ionicons } from "@expo/vector-icons";
-import { Tabs } from "expo-router";
+import { Tabs, Link } from "expo-router";
 import * as Speech from "expo-speech";
 
 function getRandomComplement() {
@@ -97,6 +97,7 @@ export default function Page() {
             {complement}
           </Text>
         </View>
+        <Link href="3">Go to tab 3</Link>
       </View>
     </View>
   );
